@@ -39,5 +39,8 @@ public class Memo {
     public static void main(String[] args) {
         Memo memo = new Memo();
         memo.insertRecord(1, "John Doe", "john@example.com");
+        
+        
+        System.out.println("Hello Jhon Doe");
     }
 }
