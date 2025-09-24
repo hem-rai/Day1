@@ -42,5 +42,10 @@ public class Memo {
         
         
         System.out.println("Hello Jhon Doe");
+        
+        
+        System.out.println("Hello This is Hem Rai");
+        System.out.println("Could you introduce by yourself?");
+        
     }
 }
